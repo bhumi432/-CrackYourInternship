@@ -1,2 +1,2 @@
 # -CrackYourInternship
-solving DSA questions 45 days cahllenge
+solving DSA questions 45 days challenge
